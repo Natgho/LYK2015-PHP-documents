@@ -1,0 +1,5 @@
+Sessionlar ile cookiler aynı mantıkla çalışır.
+$_SESSION["X"] = 1 ;
+şeklinde oluşturulabilir.
+
+wireshark ile ağ dinlemesi yapılır.
